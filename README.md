@@ -2,7 +2,7 @@
 
 Estudando atualmente Análise e Desenvolvimento de Sistemas e me desenvolvendo cada dia mais em novas tecnologias!
 
-<div align="center">
+<div>
   <a href="https://github.com/1rafahub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1rafahub&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1rafahub&layout=compact&langs_count=7&theme=highcontrast"/>
