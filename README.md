@@ -22,6 +22,7 @@
   <h1>Contatos<h1/>
     
   <div>
+    <a href = "mailto:1rafaelsilvalima@gmail.com"><img src=" https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" target="_blank"></a>
     <a href = "mailto:1rafaelsilvalima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/1rafasilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
