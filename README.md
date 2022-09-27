@@ -1,6 +1,7 @@
 <h1> Olá pessoas! Eu sou o Rafael 👋 <h1/>
 
-<h3>Estudando atualmente Análise e Desenvolvimento de Sistemas e me desenvolvendo cada dia mais em novas tecnologias!<h3/>
+<h3>Estudando atualmente Análise e Desenvolvimento de Sistemas 3º semestre atualmente trabalhando como Analista de Processos Jr.!<br> Apenas no começo da minha jornada na área de Tecnologiga<h3/>
+
 
 <div>
   <a href="https://github.com/1rafahub">
